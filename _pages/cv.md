@@ -7,53 +7,38 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, Washington State University, 2023
+* M.S. in Statistics, Washington State University, 2026 (expected)
+* Ph.D in Mathematics, Washington State University, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023 - Present: Teaching Assistant
+  * Washington State University
+  * Duties included: Running 2 labs for 40 students, creating lessons and activities, grading
+  * Supervisor: Olga Rumyantseva
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2018- May 2021: Math Tutor
+  * Shasta College
+  * Duties included: Developed a diverse set of strategies of explaining mathematical concepts to students of diverse backgrounds.
+  * Supervisor: James Raymer
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Matlab
+* Python
+* AMPL
+* Statistical software: R and SAS
+* LaTeX
+* French (Proficient)
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  PiMUC, 2023 - "Investigating the SIR Model for Emerging Infectious Diseases and its Connection to the Korteweg-de Vries Equation"
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  Math 140 Labs 1 & 2, Washington State University, Fall 2023
+  Embedded Tutor for Differential Equations, Shasta College, Spring 2020
