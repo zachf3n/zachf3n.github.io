@@ -8,7 +8,4 @@ date: 2023-12-27
 location: "Vancouver, Washington"
 ---
 
-Teaching assistant for two calculus labs (40 students total).
-
-<> Heading 1
-<> ======
+Teaching assistant for two calculus labs (40 students total). I used a metacognitive teaching approach to equip students with universal problem solving skills while increasing their mathematical literacy.
