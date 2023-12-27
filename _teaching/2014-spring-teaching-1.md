@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Calculus for Life Scientists"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-teaching-1
+venue: "WSUV, Math and Stat Department"
+date: 2023-27-12
+location: "Vancouver, Washington"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for two calculus labs (40 students total).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<> Heading 1
+<> ======
