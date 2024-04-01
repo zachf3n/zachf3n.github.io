@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a graduate student at [Mathematics and Statistics department](https://www.math.wsu.edu/) of [Washington State University](https://www.vancouver.wsu.edu/). My research interest is in optimal power flow for smart grids with ideas from degree theory.
+Welcome! I am a graduate student at [Mathematics and Statistics department](https://www.math.wsu.edu/) of [Washington State University](https://www.vancouver.wsu.edu/). My research interests are in optimization, topology, statistics, and applications.
 
 I am advised by [Bala Krishnamoorthy](https://www.math.wsu.edu/faculty/bkrishna/).
